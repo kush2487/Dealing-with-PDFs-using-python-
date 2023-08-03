@@ -7,7 +7,7 @@ import PyPDF2
 
 
 pdf_files = 'output1.pdf'#put your pdf name which is in the same directory 
-keywords = ["Campaign ID:","Taxable Amount","Total Amount","Page Number"]#put your keywords that you want ot extract
+keywords = [""]#put your keywords that you want ot extract
 
 
 
